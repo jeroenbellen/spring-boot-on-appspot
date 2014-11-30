@@ -8,6 +8,6 @@ public class Index {
 
     @RequestMapping
     public String index() {
-        return "Spring boot says hi :/";
+        return "Spring boot says hi :/ =)";
     }
 }
